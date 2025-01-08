@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm new at PR and I try to learn about my working environment 
+I work on MAESTRIA
+ 
 
 <!--
 **Etienne-PR/Etienne-PR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
